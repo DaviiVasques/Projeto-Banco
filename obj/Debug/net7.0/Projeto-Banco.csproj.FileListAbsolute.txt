@@ -1,0 +1,15 @@
+/home/davi/Documentos/Projetos/Projeto-Banco/bin/Debug/net7.0/Projeto-Banco
+/home/davi/Documentos/Projetos/Projeto-Banco/bin/Debug/net7.0/Projeto-Banco.deps.json
+/home/davi/Documentos/Projetos/Projeto-Banco/bin/Debug/net7.0/Projeto-Banco.runtimeconfig.json
+/home/davi/Documentos/Projetos/Projeto-Banco/bin/Debug/net7.0/Projeto-Banco.dll
+/home/davi/Documentos/Projetos/Projeto-Banco/bin/Debug/net7.0/Projeto-Banco.pdb
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.csproj.AssemblyReference.cache
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.AssemblyInfoInputs.cache
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.AssemblyInfo.cs
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.dll
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/refint/Projeto-Banco.dll
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.pdb
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/Projeto-Banco.genruntimeconfig.cache
+/home/davi/Documentos/Projetos/Projeto-Banco/obj/Debug/net7.0/ref/Projeto-Banco.dll
